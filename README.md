@@ -1,6 +1,6 @@
 ## Hello Wolrd 🤗
 ### About me
-
+![Matrix of numbers](/status.gif)
 <p>My Name is Damilola, you can recognize me as Github's Codam😉.</p>
 - **CS Student**
 - **Alx student**
