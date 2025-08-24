@@ -15,4 +15,4 @@ Trained on solving technical problems
 |     3|      Java        |
 |     4|        C          |
 
-Would appreciate a follow-up😊
+follow-up 👍🏾
