@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Damilola Abdulmalik
+# 👋 Hi, I’m Damilola Oguntola
 
 🚀 **Software Engineer | ALX Software Engineering Graduate**  
 💻 **Backend Developer (Java • Spring Boot)**  
