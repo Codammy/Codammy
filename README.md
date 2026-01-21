@@ -6,8 +6,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codammy&show_icons=true&theme=blueberry&hide_border=true&count_private=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codammy&theme=blueberry&hide_border=true" height="170" />
