@@ -6,6 +6,18 @@
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codammy&show_icons=true&theme=blueberry&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codammy&theme=blueberry&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codammy&layout=compact&theme=blueberry&hide_border=true" />
+</p> -->
+
+
 ## 👨‍💻 About Me
 
 I’m a passionate software engineer with a strong backend focus, trained through the **ALX Software Engineering program**.  
